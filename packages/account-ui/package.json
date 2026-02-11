@@ -59,13 +59,13 @@
     "@types/react": "^19.1.8",
     "@vitest/coverage-v8": "2.1.2",
     "clsx": "1.2.1",
-    "glob": "^7.2.0",
-    "preact": "^10.26.9",
+    "glob": "^12.0.0",
+    "preact": "^10.24.3",
     "sass": "^1.64.1",
     "tsc-alias": "^1.8.8",
     "tslib": "^2.6.0",
     "typescript": "^5.1.6",
-    "vitest": "^2.1.9",
+    "vitest": "^3.0.5",
     "vue": "^3.5.17"
   },
   "peerDependencies": {
